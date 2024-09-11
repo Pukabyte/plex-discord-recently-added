@@ -29,7 +29,7 @@ plex_discord_media_updates:
     
     message_options:
         # Will be bolded and put on its own line, the loockback period will be appended to the end
-        title: "Recently Added to Davy Jones Media from the last"
+        title: "Recently Added to {server name} from the last"
 
     embed_options:
         # Optional thumbnail that will go in all embeds. Set to an empty string ("") to disable it or set to a direct image url string to enable it.
